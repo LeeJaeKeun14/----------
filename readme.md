@@ -56,4 +56,4 @@
 
 ## 파일
 
-- [빅데이터의 이해](./%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%ED%9A%8D/readme.md)
+- [빅데이터 분석 기획](./%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%ED%9A%8D/readme.md)
